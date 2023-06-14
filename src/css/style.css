@@ -273,6 +273,7 @@ span:hover {
         flex-direction: row;
         justify-content: space-between;
         padding: 0px 10px;
+        max-width: 520px;
     }
     
 }
