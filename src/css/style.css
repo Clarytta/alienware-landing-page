@@ -186,7 +186,7 @@ span:hover {
     transform: scale(1.09);
 }
 
-@media (max-width: 560px) {
+@media (max-width: 600px) {
     .container {
         max-width: 410px;
         flex-direction: column;
