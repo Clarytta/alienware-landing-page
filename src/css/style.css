@@ -268,16 +268,11 @@ span:hover {
         max-width: 320px;
         animation: none;
     }
-
-    footer {
-        display: flex;
-        justify-content: space-between;
-        align-items: flex-end;
-        padding: 0px 15px;
-    }
-
+    
     footer .container {
         flex-direction: row;
+        justify-content: space-between;
+        padding: 0px 10px;
     }
     
 }
