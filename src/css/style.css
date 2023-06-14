@@ -271,9 +271,9 @@ span:hover {
 
     footer {
         display: flex;
-        justify-content: space-around;
+        justify-content: space-between;
         align-items: flex-end;
-        padding: 0px 10px;
+        padding: 0px 15px;
     }
 
     footer .container {
