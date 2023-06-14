@@ -208,6 +208,10 @@ span:hover {
     header div img {
         width: 320px;
     }
+    
+    main {
+        min-height: 1460px;
+    }
 
     .informacoes {
         margin-top: 20px;
@@ -266,7 +270,6 @@ span:hover {
     }
 
     footer {
-        min-height: 900px;
         display: flex;
         justify-content: space-around;
         align-items: flex-end;
